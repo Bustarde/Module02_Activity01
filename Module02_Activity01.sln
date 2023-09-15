@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module02_Activity01.Android", "Module02_Activity01\Module02_Activity01.Android\Module02_Activity01.Android.csproj", "{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module02_Activity01", "Module02_Activity01\Module02_Activity01\Module02_Activity01.csproj", "{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF5F9E7-7DC9-4B82-851F-F09A284EE6E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E35D0F9-AD6E-45BD-8E55-79EFFC39EF9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106CB9B5-F5E3-46DF-8328-F9F538139ECD}
+	EndGlobalSection
+EndGlobal
